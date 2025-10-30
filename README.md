@@ -39,5 +39,3 @@ With the best-performing model (Random Forest, 95.87% accuracy), SuperLender can
 - LightGBM, XGBoost
 - Matplotlib, Seaborn
 - Jupyter Notebook
-tps://github.com/yourusername/loan-default-prediction.git
-   cd loan-default-prediction
