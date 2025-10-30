@@ -28,7 +28,7 @@ With the best-performing model (Random Forest, 95.87% accuracy), SuperLender can
 ---
 
 ### Data Cleaning
-****-Converted date columns to datetime
+-Converted date columns to datetime
 Removed null values and irrelevant columns
 Merged all train and test data into unified datasets
 - Feature Engineering
@@ -38,9 +38,9 @@ Encoded categorical variables (education, bank name, etc.)
 - Exploratory Data Analysis
 Correlation analysis with heatmap
 Visualization of loan amount distribution and term duration
-Identification of key predictors for default****
+Identification of key predictors for default.
 ---
-###Key Insights
+### Key Insights
 -Customers with shorter repayment gaps and stable employment have better repayment behavior.
 -Loan amount and education level strongly influence credit performance.
 -Ensemble models (Random Forest, LightGBM, XGBoost) achieved the best overall accuracy and ROC-AUC.
