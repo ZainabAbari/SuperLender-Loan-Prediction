@@ -1,6 +1,6 @@
 # SuperLender-Loan-Prediction
 
-#####This project predicts whether a loan will be Good (1) or Bad (0) using machine learning models. The goal is to help SuperLender assess credit risk effectively.
+##### This project predicts whether a loan will be Good (1) or Bad (0) using machine learning models. The goal is to help SuperLender assess credit risk effectively.
 ---
 
 SuperLender is a digital lending company struggling with loan defaults. Using customer demographics, loan history, and repayment behavior, this project builds machine learning models to predict the likelihood that a new loan will be repaid (“Good”) or default (“Bad”).
